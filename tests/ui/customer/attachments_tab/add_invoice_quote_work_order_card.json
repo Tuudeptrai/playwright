@@ -1,0 +1,8 @@
+{
+    "domain": "localhost:3000",
+    "username": "thaontp.la@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2630_1": {}
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "authdomain": "squadware-auth-api.azurewebsites.net",
+    "maindomain": "localhost:5001",
+    "userdomain": "localhost:5001",
+    "custdomain": "localhost:5001",
+    "username": "tuuvv.uit@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2729_1": {}
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "domain": "localhost:3000",
+    "username": "tester@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2761_1": {}
+    }
+}
